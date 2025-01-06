@@ -1,0 +1,31 @@
+.jumbotron{
+    background-color: #a2d9ff;
+}
+.projects{
+    background-color: #a2d9ff;
+    margin-top: -1px;
+}
+
+.card img{
+    aspect-ratio:4/3;
+}
+
+.profile-img{
+    aspect-ratio: 1/1;
+    background-size: cover;
+}
+
+#Home{
+    padding-top: 5vh;
+}
+
+#About{
+    padding-top: 6vh;
+}
+
+#Projects{
+    padding-top:6vh;
+
+}
+    
+
